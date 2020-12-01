@@ -1,6 +1,14 @@
 # Mostly borrowed from templates in 
 # https://github.com/github/gitignore
 
+## other spam
+bin/
+etc/
+share/
+pyvenv.cfg
+
+
+
 ## python spam
 
 # Byte-compiled / optimized / DLL files
