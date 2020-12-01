@@ -1,0 +1,9 @@
+basemap @ git+https://github.com/matplotlib/basemap.git
+ipython-sql
+jupyter
+jupyter-contrib-nbextensions
+matplotlib
+numpy
+pandas
+scipy
+seaborn
