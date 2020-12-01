@@ -13,7 +13,7 @@ At present it contains projects completed as part of Dataquest's Data Analyst in
 
 The following projects used Python and the Pandas library for data analysis and  matplotlib for visualization.
 
-- *[college_majors](file:///college_majors)* Visualization and of earnings by college major across various dimensions.
-- *[ebay_car_sales](file:///ebay_car_sales)* Cleaning and analysis of a 50,000 row dataset of eBay Autos listings.
-- *[exit_surveys](file:///exit_surveys)* Cleaning, merging and analysis of two employee exit interview datasets.
-- *[nyc_schools](file:///nyc_schools)* Cleaning, merging and analysis of six datasets about New York City schools.
+- *[college_majors](college_majors/)* Visualization and of earnings by college major across various dimensions.
+- *[ebay_car_sales](ebay_car_sales/)* Cleaning and analysis of a 50,000 row dataset of eBay Autos listings.
+- *[exit_surveys](exit_surveys/)* Cleaning, merging and analysis of two employee exit interview datasets.
+- *[nyc_schools](nyc_schools/)* Cleaning, merging and analysis of six datasets about New York City schools.
